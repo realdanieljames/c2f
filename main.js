@@ -2,8 +2,9 @@
  * Your code here!
  ******************************************************************************/
 
-
-
+const result =getInput(0);
+const celsius = (result * 9/5) + 32
+console.log(result + ' degrees Celsius is ' + celsius + ' degrees in Fahrenheit.')
 
 
 /*******************************************************************************
